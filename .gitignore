@@ -1,0 +1,7 @@
+﻿# Local Secure / Database Files
+/Database/*.xlsx
+/Config/license.dat
+/Output_Result/*
+/Input_Market/**/*.xlsx
+*.user
+*.log
