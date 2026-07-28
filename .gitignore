@@ -1,3 +1,4 @@
 ﻿Config/license.dat
 Output_Result/*.csv
 Database/*.csv
+Database/*.log
